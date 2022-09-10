@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Lesson_DotNet_Deconstructor</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Company>PubDev</Company>
+    <Authors>Humberto Rodrigues and Rafael Nagai</Authors>
+  </PropertyGroup>
+
+</Project>
